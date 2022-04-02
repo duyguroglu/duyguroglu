@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @duyguroglu
-- 👀 I’m interested in UX, UI and Product Design
+- 💞️ Product designer working on UX, UI projects
 - 🌱 I’m currently learning html & css
-- 💞️ I’m looking to collaborate on UX design projects
+- 👀 I’m looking to collaborate on UX design projects
 - 📫 How to reach me: duyguroglu@gmail.com
+- 🌐 You can view my portfolio @ www.duyguroglu.com
 
 <!---
 duyguroglu/duyguroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
